@@ -48,6 +48,6 @@ Helped management with a data-driven view for optimizing product mix, outlet exp
    from kaggel
 
 9. screesot demo
-show what Dashboard look likes. ![Alt text](https://github.com/username/repo/assets/image.png)
+show what Dashboard look likes. 
 
 example: [Dashboard preview](https://github.com/mondalrajib6291-hue/Blinkit-Sales-Performance-Dashboard/blob/main/Blinkit%20Sales%20%26%20Performance%20Dashboard.png)
